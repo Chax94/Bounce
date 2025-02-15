@@ -1,6 +1,7 @@
 {
   "name": "my-react-app",
   "version": "0.1.0",
+  "homepage": "https://Chax94.github.io/Bounce",
   "private": true,
   "dependencies": {
     "@shadcn/ui": "^0.0.4",
@@ -43,6 +44,5 @@
   },
   "devDependencies": {
     "gh-pages": "^6.3.0"
-  },
-  "homepage": "https://Chax94.github.io/Bounce"
+  }
 }
