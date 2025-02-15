@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Bounce/static/css/main.9fe40f7c.css",
+    "main.js": "/Bounce/static/js/main.79494f95.js",
+    "static/js/488.af104311.chunk.js": "/Bounce/static/js/488.af104311.chunk.js",
+    "static/media/A1_180g_chain.png": "/Bounce/static/media/A1_180g_chain.3478c713661e5497008c.png",
+    "static/media/mouth-zoomed.png": "/Bounce/static/media/mouth-zoomed.8d57b9855fe9e14f2fd0.png",
+    "static/media/WEBSITE_BANNER2.png": "/Bounce/static/media/WEBSITE_BANNER2.eba404f802f0170e3a90.png",
+    "static/media/mouthhhh.png": "/Bounce/static/media/mouthhhh.ce3031d280ed21565435.png",
+    "static/media/10X.png": "/Bounce/static/media/10X.3f037e1da1032e055878.png",
+    "index.html": "/Bounce/index.html",
+    "main.9fe40f7c.css.map": "/Bounce/static/css/main.9fe40f7c.css.map",
+    "main.79494f95.js.map": "/Bounce/static/js/main.79494f95.js.map",
+    "488.af104311.chunk.js.map": "/Bounce/static/js/488.af104311.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9fe40f7c.css",
+    "static/js/main.79494f95.js"
+  ]
+}
